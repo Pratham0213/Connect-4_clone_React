@@ -18,8 +18,7 @@ const Connect4 = () => {
   };
 
   const checkWinner = () => {
-    // Check horizontal, vertical, and diagonal for a winner
-    // Add your winning logic here
+   
   };
 
   const renderCell = (row, col) => {
